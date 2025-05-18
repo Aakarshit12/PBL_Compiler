@@ -1,0 +1,6 @@
+AST Structure:
+BinaryOp(+)
+  Number(2.00)
+  BinaryOp(*)
+    Number(3.00)
+    Number(5.00)
