@@ -1,0 +1,10 @@
+# Three-Address Code
+# =================
+
+t1 = 2.00
+t2 = 3.00
+t3 = 5.00
+t4 = t2 * t3
+t5 = t1 + t4
+
+# Result is in variable: t5
